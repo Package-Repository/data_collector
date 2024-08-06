@@ -1,0 +1,6 @@
+[submodule "vision"]
+	path = vision
+	url = https://github.com/Package-Repository/vision.git
+[submodule "controller"]
+	path = controller
+	url = https://github.com/Package-Repository/controller.git
